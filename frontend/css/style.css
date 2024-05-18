@@ -133,7 +133,6 @@ body {
     font-weight: 500;
     margin-bottom: 15px;
     line-height: 22px;
-    overflow-wrap: break-word;
 }
 
 .message--self {
